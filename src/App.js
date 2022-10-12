@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+// import './App.css';
 import Index from './TestComponents/Index'
 // import Message from './TestComponents/Message';
 // import Blog from './TestComponents/Blog';
